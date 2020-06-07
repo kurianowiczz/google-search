@@ -1,0 +1,17 @@
+{
+  "name": "google-search",
+  "version": "1.0.0",
+  "description": "Google layout",
+  "scripts": {
+    "transform": "gulp css"
+  },
+  "author": "Kuryanovich Daria <github.com/kurianowiczz>",
+  "url": "https://github.com/kurianowiczz/google-search",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.8.0",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0"
+  }
+}

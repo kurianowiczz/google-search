@@ -1,0 +1,8 @@
+{
+    "name": "Google",
+    "short_name": "Google",
+    "background_color": "#fff",
+    "theme_color": "#363636",
+    "start_url": ".",
+    "display": "standalone"
+}
